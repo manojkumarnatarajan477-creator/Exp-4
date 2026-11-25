@@ -3,8 +3,28 @@
 ## REGISTER NUMBER: 212225230168
 
 # AIM:
+To design and develop a Hospital Management System using UML diagrams to represent the structure, workflow, and interactions between patients, doctors, nurses, and other hospital departments.
+
 
 # SRS (Procedure):
+1.Identify the main entities such as Patient, Doctor, Nurse, Medical Store and Billing Counter.
+
+
+
+2.Analyse the requirements and interactions between the hospital entities.
+
+
+
+3.Draw the Use Case Diagram and Class Diagram to represent system functions and relationships.
+
+
+
+4.Draw the Activity, Sequence and Communication Diagrams to represent workflow and interactions.
+
+
+
+5.Draw the Package Diagram to organise system components and verify all UML diagrams.
+
 
 # DIAGRAMS:
 (Upload all 6 diagrams)
@@ -44,3 +64,4 @@
 
 
 # RESULT:
+Thus, the Hospital Management System was successfully designed using six UML diagrams, representing its structure, activities, and interactions.

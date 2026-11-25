@@ -7,23 +7,20 @@ To design and develop a Hospital Management System using UML diagrams to represe
 
 
 # SRS (Procedure):
-1.Identify the main entities such as Patient, Doctor, Nurse, Medical Store and Billing Counter.
+## Step 1: Problem Identification
+The main problem is managing hospital activities such as patient registration, appointment scheduling, patient check-ups, treatment, medicine distribution, and billing manually. The system aims to make hospital operations easier, faster, and more accurate.
 
 
+## Step 2: Requirement Analysis
+Identify the main users: Patient, Doctor, Nurse, Medical Store, and Billing Counter.
 
-2.Analyse the requirements and interactions between the hospital entities.
+Define the main functions: Patient registration, appointment booking, patient check-up, treatment, prescription generation, medicine distribution, bill generation, and payment processing.
+## Step 3: System Design
+Design the UML diagrams, including Use Case, Class, Activity, Sequence, Communication, and Package diagrams.
 
-
-
-3.Draw the Use Case Diagram and Class Diagram to represent system functions and relationships.
-
-
-
-4.Draw the Activity, Sequence and Communication Diagrams to represent workflow and interactions.
-
-
-
-5.Draw the Package Diagram to organise system components and verify all UML diagrams.
+Identify the classes, attributes, methods, relationships, and interactions between different users and the Hospital Management System.
+## Step 4: Diagram Development and Verification
+Create all six UML diagrams using StarUML. Check the relationships, activities, message flow, and system structure to ensure that all diagrams correctly represent the Hospital Management System.
 
 
 # DIAGRAMS:
